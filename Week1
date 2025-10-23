@@ -1,0 +1,23 @@
+
+Understand the concept of MQTT
+https://www.youtube.com/watch?v=NXyf7tVsi10
+
+MQTT Protocolos
+
+
+Works by publishing and subscribing mechanism 
+MQTT Broker is responsible for receiving all the messages, decides who is interestes in them and publishes to subcribers 
+
+Imaginig a Shell Power plant where on Area 1 (A1) we have an instrument to measure temperature.
+The A1 (Client) published the information to the broker. 
+
+On MQTT there is this structure:  
+      Topic: Shell/A1/Temp
+      Msg or Payload: 32ºC  
+
+MQTT broker can have all information published by the Sensor A1 , Sensor A2, Sensor A3.
+
+The clients that are subscribed to Sensor A1, receive the info when Sensor A1 publishes to the MQTT broker. 
+
+For cybersecurity point of view is used a firewall which only allows comunication between broker and the client. 
+
