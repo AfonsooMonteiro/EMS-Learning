@@ -1,0 +1,46 @@
+Goals of the course: 
+
+Learn the basics of Industrial Automation
+Levels and components in a system 
+Programing Languages:
+- Ladder Logic 
+- Function block diagrams
+OPC SCADA
+
+
+Industrial Automation concept - the use of set technologies and automatic control devices for control systems
+
+
+Indutrial Automation Components:
+
+PLC - programming logic controllers
+DCS - distributed control systems 
+Field industrial devices 
+Industrial comunication and networking
+HMI - Human-machine interface 
+SCADA - Supervisory control and data acquisition
+
+Levels in Industrial Automation: 
+- Field level
+
+- Control Level
+
+- Application/Managment Level
+
+
+Industrial Network: 
+
+DeviceNet 
+Modbus 
+HART Comunication Protocol
+PROFIBUS 
+Ethernet 
+
+
+
+
+
+
+
+
+
