@@ -1,1 +1,22 @@
 
+GOALS:
+Start to search and understand how would an EMS be implemntend in a Port 
+
+How can an EMS be appplied to a port ?
+
+Which APIs (External DATA) can we use for the EMS in question?
+- Meteo
+- Market Prices 
+- Localization Boats in Port
+- Incoming boats shedule ??
+- More Boats data 
+
+At the moment the data comes from 31 general (QUADROS)
+Data that's gonna be available soon - Solar Production and Electric Mobility 
+
+In the perspective of Dashboard, what are import indicators to monitored? 
+
+Forecast goal: What to produce? What is going to be consumed ?  What each boat consumes (depending on type of boat) ? 
+
+
+
